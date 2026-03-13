@@ -1,0 +1,58 @@
+[
+  {
+    "id": "311-1001",
+    "source": "311",
+    "createdAtISO": "2026-03-10T15:20:00Z",
+    "title": "Streetlight out near bus stop",
+    "body": "The street light has been out for a week. It's very dark and feels unsafe for kids walking home from school.",
+    "addressHint": "Near 5th Ave & Pine St",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "status": "Open"
+  },
+  {
+    "id": "forum-2002",
+    "source": "Forum",
+    "createdAtISO": "2026-03-11T02:10:00Z",
+    "title": "Overflowing trash + rats behind apartments",
+    "body": "Garbage bins are overflowing and there are rats. Smell is getting worse. Please address ASAP.",
+    "addressHint": "Alley behind Oakwood Apartments",
+    "latitude": 37.7765,
+    "longitude": -122.4178,
+    "status": "Unknown"
+  },
+  {
+    "id": "311-1033",
+    "source": "311",
+    "createdAtISO": "2026-02-20T18:05:00Z",
+    "title": "Large pothole causing accidents",
+    "body": "Pothole / crater in the right lane. Cars swerve and it's a hazard. Someone almost crashed yesterday.",
+    "addressHint": "1200 Block Mission St",
+    "latitude": 37.7792,
+    "longitude": -122.4130,
+    "status": "Open"
+  },
+  {
+    "id": "minutes-3001",
+    "source": "Minutes",
+    "createdAtISO": "2026-01-28T19:00:00Z",
+    "title": "Residents report recurring graffiti on underpass",
+    "body": "Multiple residents report tagging and vandalism on the underpass walls; request cleanup and lighting improvements.",
+    "addressHint": "Central underpass",
+    "latitude": 37.7712,
+    "longitude": -122.4312,
+    "status": "Pending"
+  },
+  {
+    "id": "forum-2010",
+    "source": "Forum",
+    "createdAtISO": "2026-03-09T21:40:00Z",
+    "title": "Mold and no heat in unit",
+    "body": "Landlord hasn't fixed leak; mold spreading. No heat again this week. Elderly neighbor is struggling.",
+    "addressHint": "Southside neighborhood",
+    "latitude": 37.7689,
+    "longitude": -122.4281,
+    "status": "Open"
+  }
+]
+
